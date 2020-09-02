@@ -1,1 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lizhoukai&show_icons=true&theme=dracula "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+### About
+
+考虑工作机会，欢迎发邮件。
+
+邮箱：fe.lizhoukai@gmail.com
+博客：https://likr.cn
+
+### GitHub
+![lizhoukai's github](https://github-readme-stats.vercel.app/api?username=lizhoukai&show_icons=true&title_color=409EFF&icon_color=409EFF&text_color=333333&bg_color=ffffff)
