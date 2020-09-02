@@ -1,9 +1,8 @@
 ### About
 
-考虑工作机会，欢迎发邮件。
+考虑工作机会，欢迎发邮件
 
 邮箱：fe.lizhoukai@gmail.com
-
 博客：https://likr.cn
 
 ### GitHub
